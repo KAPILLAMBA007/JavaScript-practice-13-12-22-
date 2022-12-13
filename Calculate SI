@@ -1,0 +1,7 @@
+const P=20000
+const R =12.5
+// time in year
+const T=3
+
+const SI = (P*R*T)/100
+console.log(SI)
